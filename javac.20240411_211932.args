@@ -1,0 +1,18 @@
+-d
+E:\\Project_UMKM_Angkringan\\build\\classes
+-classpath
+"E:\\Project_UMKM_Angkringan\\build\\classes;E:\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar;C:\\Program Files\\NetBeans-18\\netbeans\\java\\modules\\ext\\jcalendar-1.3.2.jar"
+-sourcepath
+E:\\Project_UMKM_Angkringan\\src
+-target
+20
+-encoding
+UTF-8
+-g
+-processorpath
+"C:\\Program Files\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar;E:\\mysql-connector-j-8.3.0\\mysql-connector-j-8.3.0.jar;C:\\Program Files\\NetBeans-18\\netbeans\\java\\modules\\ext\\jcalendar-1.3.2.jar;E:\\Project_UMKM_Angkringan\\build\\empty"
+-s
+E:\\Project_UMKM_Angkringan\\build\\generated-sources\\ap-source-output
+-source
+20
+E:\\Project_UMKM_Angkringan\\src\\GUI\\Transaksi.java
